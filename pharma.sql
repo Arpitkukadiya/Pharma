@@ -118,10 +118,6 @@ CREATE TABLE `users` (
 --
 -- Dumping data for table `users`
 --
-
-INSERT INTO `users` (`id`, `name`, `email`, `password`, `user_type`, `image`, `otp`, `verified`) VALUES
-(31, 'admin', 'admin@gmail.com', '202cb962ac59075b964b07152d234b70', 'admin', 'WIN_20240725_10_20_47_Pro.jpg', '', 0);
-
 -- --------------------------------------------------------
 
 --
