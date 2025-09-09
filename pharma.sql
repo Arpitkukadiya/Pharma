@@ -95,7 +95,6 @@ INSERT INTO `products` (`id`, `name`, `category`, `details`, `price`, `image`) V
 (48, ' EYE DROP', 'Drops', 'SUN PHARMA LIQUID PREDMET EYE DROP at ₹ 60/piece in Nagpur | ID: 24593689055', 60, 'Screenshot 2025-03-18 191902.png'),
 (49, 'Eye Drops', 'Drops', 'SUN PHARMA Bimatoprost Ophthalmic Eye Drops at ₹ 400/bottle in Surat | ID: 24525545462\r\nImages may be subject to copyright. Learn More', 400, 'Screenshot 2025-03-18 192123.png'),
 (50, 'Pharmaceuticals Injections', 'Injections', 'Pharmaceuticals Injections - Medicine Grade Liquid Solution | Ideal For Hospital And Clinic Applications, Superior Quality at Best Price in Panchkula | Venus Remedies Ltd\r\nImages may be subject to copyright. Learn More', 200, 'Screenshot 2025-03-18 192231.png'),
-(51, 'Zinc Capsules', 'Capsules ', 'NAVOTIC Prebiotic+Probiotic & Zinc Capsules, Packaging Size: 10*10 Alu-alu at ₹ 990/box in Manimajra\r\nImages may be subject to copyright. Learn More', 990, 'Screenshot 2025-03-18 192404.png'),
 
 -- --------------------------------------------------------
 
